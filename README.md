@@ -10,4 +10,4 @@ Heey I know some **Python** and **JavaScript**.
 * [Age site](https://dlfno.github.io/ageSite/)
 
 ![Galaxy](https://github.com/dlfno/dlfno.github.io/blob/main/night-sky.jpg)
-![Galaxy](https://raw.githubusercontent.com/dlfno/dlfno.github.io/main/night-sky.jpg)
+![Galaxy2](https://raw.githubusercontent.com/dlfno/dlfno.github.io/main/night-sky.jpg)
