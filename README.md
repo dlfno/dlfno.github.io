@@ -8,3 +8,5 @@ Heey I know some **Python** and **JavaScript**.
 
 * [Hour of day site](https://dlfno.github.io/timeSite/)
 * [Age site](https://dlfno.github.io/ageSite/)
+
+![Galaxy](https://github.com/dlfno/dlfno.github.io/blob/main/night-sky.jpg)
